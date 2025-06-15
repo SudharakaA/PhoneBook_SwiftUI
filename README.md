@@ -29,6 +29,7 @@ sh
 open PhoneBook_SwiftUI/PhoneBook_SwiftUI.xcodeproj
 Build and run on your simulator or device.
 Usage
+<img width="1012" alt="Screenshot 2025-06-15 at 11 28 12" src="https://github.com/user-attachments/assets/e3405a0d-2441-494c-9939-f8560278dfa2" />
 
 Launch the app to see your contacts list.
 Tap the "+" button to add a new contact.
